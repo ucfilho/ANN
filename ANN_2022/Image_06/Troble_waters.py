@@ -6,3 +6,4 @@
 # note: Pressione a tecla Windows + R para abrir uma caixa de diálogo Executar. Em seguida, digite  cmd 
 #       echo% PATH% 
 #       Pressione a tecla Windows + R para abrir uma caixa de diálogo Executar. Em seguida, digite “ sysdm.cpl ” 
+#       check https://jobu.com.br/2021/05/25/pip-nao-e-reconhecido/
