@@ -2,6 +2,9 @@ import cv2
 import os
 print(cv2.__version__)
 
+# you find this video here:
+# https://drive.google.com/file/d/1mx3LUdeFO1-KFzClhFVwu71KWM3-s1hO/view?usp=sharing
+
 print(os.getcwd())
 path_dir = r"C:\Users\User\Documents\Atividades_andamento\computer_vision"
 os.chdir(path_dir)
