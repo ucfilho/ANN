@@ -7,6 +7,9 @@ print(os.getcwd())
 path_dir = r"C:\Users\User\Documents\Atividades_andamento\computer_vision"
 os.chdir(path_dir)
 
+# you find this video here:
+# https://drive.google.com/file/d/1mx3LUdeFO1-KFzClhFVwu71KWM3-s1hO/view?usp=sharing
+
 name_video = 'strawberry.mp4'
 cap = cv2.VideoCapture(name_video)
 
